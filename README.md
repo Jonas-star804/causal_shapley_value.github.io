@@ -1,3 +1,5 @@
 ## Usage
 
-### discovery_
+### discovery_path
+
+### shapley_value
